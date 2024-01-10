@@ -76,27 +76,27 @@ export default class Timer {
 	playAudio() {
 	    switch (this.timeToSpawn) {
 				case 50:
-	            var audio50 = new Audio('50seconds.mp3');
+	            var audio50 = new Audio('50.mp3');
 	            console.log("Playing audio 50.");
 				audio50.play();
 	            break;
 			case 40:
-	            var audio40 = new Audio('40seconds.mp3');
+	            var audio40 = new Audio('40.mp3');
 	            console.log("Playing audio 40.");
 				audio40.play();
 	            break;
 	        case 30:
-	            var audio30 = new Audio('30seconds.mp3');
+	            var audio30 = new Audio('30.mp3');
 	            console.log("Playing audio 30.");
 				audio30.play();
 	            break;
 	        case 20:
-	            var audio20 = new Audio('20seconds.mp3');
+	            var audio20 = new Audio('20.mp3');
 	            console.log("Playing audio 20.");
 				audio20.play();
 	            break;
 	        case 10:
-	            var audio10 = new Audio('10seconds.mp3');
+	            var audio10 = new Audio('10.mp3');
 	            console.log("Playing audio 10.");
 				audio10.play();
 	            break;
