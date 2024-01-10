@@ -1,0 +1,26 @@
+body {
+	background: transparent;
+	margin: 24px;
+}
+
+.timer {
+	font-family: 'Kanit', sans-serif;
+	display: inline-block;
+	padding: 24px 32px;
+	border-radius: 5px;
+	background: white;
+}
+
+.timer__part {
+	font-size: 24px;
+	font-weight: bold;
+  font-size: 24px;}
+.timer2{font-size: 42px;
+	font-weight: bold;
+  font-size: 42px;
+color:red;}
+
+.timer3{font-size: 42px;
+	font-weight: bold;
+  font-size: 42px;
+color:green;}
